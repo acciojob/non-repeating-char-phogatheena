@@ -4,4 +4,6 @@ for (const char of str) {
       return char;
     }
   }
+return null;
+}
   
